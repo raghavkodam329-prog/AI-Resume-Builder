@@ -1,6 +1,6 @@
 # AI-Powered Resume Builder
 
-A modern, full-stack web application that helps users create professional resumes using AI-generated content and customizable templates.
+AI-Powered Resume Builder is a full-stack web application developed using React.js, Node.js, Express.js, and MongoDB that enables users to create professional resumes through an interactive and user-friendly interface. The application provides secure user authentication using JWT, customizable resume templates, real-time resume preview, resume management features, and PDF export functionality. The system is designed to simplify the resume creation process while providing a modern, responsive, and efficient user experience. The project demonstrates proficiency in full-stack development, REST API integration, database management, authentication, and responsive UI design.
 
 ## Tech Stack
 
