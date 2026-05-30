@@ -59,7 +59,7 @@ npm install
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/ai-resume-builder
 JWT_SECRET=your_jwt_secret_key_here
-OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_API_KEY=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
 ```
 
 4. Start the backend server:
